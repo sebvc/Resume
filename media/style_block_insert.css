@@ -1,0 +1,21 @@
+/* 
+pandoc -f docx -t markdown_mmd sebvc_Resume.docx -o sebvc_Resume.md 
+*/
+/* global class styles */
+/* Title */
+tr:nth-of-type(1){
+  text-align: center;
+}
+/* icons row */
+.header th{
+  text-align: center;
+}
+/* Column of Categories */
+tr:nth-of-type(2) > td:first-of-type,
+.even td[rowspan],
+.odd td[rowspan]
+{
+/* color: red; */
+text-align: right;
+vertical-align: top;
+}
