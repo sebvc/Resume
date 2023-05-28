@@ -50,7 +50,8 @@ Station, Texas</td>
 Focus</p>
 </blockquote>
 <ul>
-<li><p>Engineering Honors</p></li>
+<li><p>Graduated with <strong>Engineering Honors</strong> and
+<strong>Summa Cum Laude</strong></p></li>
 <li><p>Major ITDE Coursework: ME, EE, CS, and MXET</p></li>
 <li><p>Minors in <a
 href="https://catalog.tamu.edu/undergraduate/engineering/mechanical/control-mechanical-systems-minor/">Control
@@ -58,7 +59,7 @@ of Mechanical Systems</a> and <a
 href="https://catalog.tamu.edu/undergraduate/engineering/electrical-computer/electrical-minor/">Electrical
 Engineering</a></p></li>
 </ul></td>
-<td>GPA: 3.94</td>
+<td>GPA: 3.93</td>
 </tr>
 <tr class="odd">
 <td rowspan="2"><strong>WORK EXPERIENCE</strong></td>
