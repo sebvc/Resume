@@ -7,7 +7,7 @@ Main Project Repository structure:
 📁Resume/
 ├──📝<a href="https://sebvc.github.io/Resume/sebvc_Resume.docx">sebvc_Resume.docx</a> # To Edit Resume
 ├──📄<a href="https://sebvc.github.io/Resume/sebvc_Resume.pdf">sebvc_Resume.pdf</a> # Shareable PDF 
-└──🗃️<a href="./sebvc_Resume.md">sebvc_Resume.md</a> # For Git Version Control Tracking
+└──🗃️<a href="https://github.com/sebvc/Resume/blob/main/sebvc_Resume.md">sebvc_Resume.md</a> # For Git Version Control Tracking
  </code>
 </pre>
 
