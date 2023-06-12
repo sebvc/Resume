@@ -3,8 +3,8 @@ Sebastian Villa Cuellar's Professional Resume Material with implemented Github T
 
 Feel free to Fork and utilize anything as a template for your resume, just reference the section [below](#for-you).
 
----
-## Main Project Repository structure: [(Browse Files Here)](https://github.com/sebvc/Resume/)
+![---](https://github.com/sebvc/Resume/assets/90735870/78313136-8b1d-4cb4-ad42-71e3ed6ff5c1)
+## Main Project Repository structure: [(Browse File Tree Here)](https://github.com/sebvc/Resume/)
 <pre><code>📁Resume/
 ├──📝<a href="https://sebvc.github.io/Resume/sebvc_Resume.docx">sebvc_Resume.docx</a> # To Edit Resume
 ├──📄<a href="https://sebvc.github.io/Resume/sebvc_Resume.pdf">sebvc_Resume.pdf</a> # Shareable PDF 
@@ -18,7 +18,7 @@ Feel free to Fork and utilize anything as a template for your resume, just refer
 └──🗃️sebvc_Resume.md # For Git Version Control Tracking
 ``` -->
 
-[Click Here to view my Resume Pdf](https://sebvc.github.io/Resume/sebvc_Resume.pdf) or Paste [https://sebvc.github.io/Resume/sebvc_Resume.pdf](https://sebvc.github.io/Resume/sebvc_Resume.pdf) to your Browser.
+[***Click Here to view my Resume Pdf***](https://sebvc.github.io/Resume/sebvc_Resume.pdf) or Paste [https://sebvc.github.io/Resume/sebvc_Resume.pdf](https://sebvc.github.io/Resume/sebvc_Resume.pdf) to your Browser.
  
 Visit [https://github.com/sebvc/Resume](https://github.com/sebvc/Resume) to view Resume progression tracked on GitHub and explore the full Repo
 
