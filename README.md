@@ -2,12 +2,21 @@
 Sebastian Villa Cuellar's Professional Resume Material
 
 Main Project Repository structure:
-```sh
+<pre>
+ <code>
+📁Resume/
+├──📝<a href=" https://sebvc.github.io/Resume/sebvc_Resume.docx">sebvc_Resume.docx</a> # To Edit Resume
+├──📄<a href=" https://sebvc.github.io/Resume/sebvc_Resume.pdf">sebvc_Resume.pdf</a> # Shareable PDF 
+└──🗃️<a href="./sebvc_Resume.md">sebvc_Resume.md</a> # For Git Version Control Tracking
+ </code>
+</pre>
+
+<!-- ```sh
 📁Resume/
 ├──📝sebvc_Resume.docx # To Edit Resume
 ├──📄sebvc_Resume.pdf # Shareable PDF 
 └──🗃️sebvc_Resume.md # For Git Version Control Tracking
-```
+``` -->
 
 [Click Here to view Resume Pdf](https://sebvc.github.io/Resume/sebvc_Resume.pdf) or Paste https://sebvc.github.io/Resume/sebvc_Resume.pdf to your Browser.
  
