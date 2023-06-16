@@ -70,6 +70,14 @@ Minnesota</td>
 </tr>
 <tr class="even">
 <td colspan="6"><blockquote>
+<p><em>Talent Development Associate,</em> Savage, MN, Jun 2023 –
+Present</p>
+</blockquote>
+<ul>
+<li><p>1 of 6 engineers in pilot Sales Team Rotation Program across the
+USA</p></li>
+</ul>
+<blockquote>
 <p><em>Industrial Automation Engineering Internship,</em> Houston, TX,
 Jun 2022 – Aug 2022</p>
 </blockquote>
