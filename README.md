@@ -1,7 +1,7 @@
 # My Resume Repo
 Sebastian Villa Cuellar's Professional Resume Material with implemented Github Tracking
 
-Feel free to Fork and utilize anything as a template for your resume, just reference the section [below](#for-you).
+>Feel free to Fork and utilize anything as a template for your resume, just reference the [**My Usage**](#my-usage) and [**For You**](#for-you) sections below.
 
 ![---](https://github.com/sebvc/Resume/assets/90735870/78313136-8b1d-4cb4-ad42-71e3ed6ff5c1)
 ## Main Project Repository structure: [(Browse File Tree Here)](https://github.com/sebvc/Resume/)
