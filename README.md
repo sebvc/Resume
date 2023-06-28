@@ -53,16 +53,12 @@ pandoc -f docx -t markdown_mmd sebvc_Resume.docx -o sebvc_Resume.md
 I also preview the `.md` file on VSCode, so for formatting sake I add the following CSS Styling file to the head of the `.md` file and any images or icons rendered in the pdf are stored in the same `./media/` directory:
 
 <blockquote>
-
-```html
-<head>
-  <link rel="stylesheet" href="media/style_block_insert.css">
-</head>
-```
-
+<code>&lt;head&gt;
+  &lt;link rel="stylesheet" href="media/style_block_insert.css"&gt;
+&lt;/head&gt;</code>
 </blockquote>
 
----
+ ---
 ## For You
 This Resume, and more specifically this Repo, is **Open-Source, _not_ Open-Contribution**, similar to [SQLite](https://www.sqlite.org/copyright.html) and [Litestream](https://github.com/benbjohnson/litestream/commit/a8d63b54aa5bd2d9639af01e1e0c2098a65b323a#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5R121). 
 
