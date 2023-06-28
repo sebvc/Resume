@@ -41,22 +41,33 @@ They both convert the file from from `.docx` to `.md` and insert a few stlying l
 > My MS Word document is composed of a full page table with many merged and split cells. I use **[pandoc](https://pandoc.org/)**, an open-source comandline document converter, to convert from `.docx` to `.md`. It's key to note that I convert it to _MultiMarkdown (mmd)_ rather than regular markdown as _mmd_ has better Table formatting that still renders nicely on github, but converting it to any Markdown syntax or even a plain text files would function simmilarly for tracking changes with Git.
 
 I use following command-line to convert my MS Word `.docx` file to a MultiMarkdown `.md` file: 
-<blockquote>
 
-```ps
+<blockquote><code>
+
 pandoc -f docx -t markdown_mmd sebvc_Resume.docx -o sebvc_Resume.md 
-```
 
-</blockquote>
+</code></blockquote>
 
+>```ps
+>pandoc -f docx -t markdown sebvc_Resume.docx -o sebvc_Resume.md 
+>```
 
 I also preview the `.md` file on VSCode, so for formatting sake I add the following CSS Styling file to the head of the `.md` file and any images or icons rendered in the pdf are stored in the same `./media/` directory:
 
 <blockquote>
-<code>&lt;head&gt;
-  &lt;link rel="stylesheet" href="media/style_block_insert.css"&gt;
-&lt;/head&gt;</code>
+<code>&lt;head&gt;<br>
+
+  &lt;link rel="stylesheet" href="media/style_block_insert.css"&gt;<br>
+
+ &lt;/head&gt;</code>
 </blockquote>
+
+<!-- ```html
+<head>
+  <link rel="stylesheet" href="media/style_block_insert.css">
+</head>
+``` -->
+
 
  ---
 ## For You
