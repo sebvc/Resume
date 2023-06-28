@@ -23,11 +23,24 @@ Sebastian Villa Cuellar's Professional Resume Material with implemented Github T
 Visit [https://github.com/sebvc/Resume](https://github.com/sebvc/Resume) to view Resume progression tracked on GitHub and explore the full Repo
 
 ---
-## My Usage 
+## My Usage
 
-1. Personally, I build and modify my resume with MS Word. 
-2. I then export it to a PDF when I have a new itteration.
-3. Then I use following Code Block to track MS Word `.docx` file changes with git. 
+1. **_Edit_** the master Resume document, a MS Word `.docx` file
+2. **_Export_** to a `.pdf` document
+3. **_Run_** the desired `convert.jl` (julia) or `convert.py` (python) script to convert to Markdown and track changes with git
+4. **_Commit_** and push all to GitHub Repository and GitHub Pages
+
+### Convert Script 🪄💻
+
+The Convert Scripts can be executed with Julia or Python in on the command line in the Resume Directory.
+
+The scripts I provided are run with either ` julia .\scripts\convert.jl` OR `python .\scripts\convert.py`
+
+They both convert the file from from `.docx` to `.md` and insert a few stlying lines to the new `.md` file. The variables in the script specify the name of the files it reads and produces.
+
+> My MS Word document is composed of a full page table with many merged and split cells. I use **[pandoc](https://pandoc.org/)**, an open-source comandline document converter, to convert from `.docx` to `.md`. It's key to note that I convert it to _MultiMarkdown (mmd)_ rather than regular markdown as _mmd_ has better Table formatting that still renders nicely on github, but converting it to any Markdown syntax or even a plain text files would function simmilarly for tracking changes with Git.
+
+I use following command-line to convert my MS Word `.docx` file to a MultiMarkdown `.md` file: 
 <blockquote>
 
 ```ps
@@ -37,7 +50,7 @@ pandoc -f docx -t markdown_mmd sebvc_Resume.docx -o sebvc_Resume.md
 </blockquote>
 
 
-4. and then add I add the following to the head of the `sebvc_Resume.md` file:
+I also preview the `.md` file on VSCode, so for formatting sake I add the following CSS Styling file to the head of the `.md` file and any images or icons rendered in the pdf are stored in the same `./media/` directory:
 
 <blockquote>
 
@@ -48,8 +61,6 @@ pandoc -f docx -t markdown_mmd sebvc_Resume.docx -o sebvc_Resume.md
 ```
 
 </blockquote>
-
-5. I stage and commit the three modified files to Github to update the remote version of my Resume that is used by [my website at tx.ag/sebvc](https://tx.ag/sebvc) and [LinkedIn](https://www.linkedin.com/in/sebvc/), and track my changes over time. 
 
 ---
 ## For You
