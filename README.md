@@ -42,31 +42,17 @@ They both convert the file from from `.docx` to `.md` and insert a few stlying l
 
 I use following command-line to convert my MS Word `.docx` file to a MultiMarkdown `.md` file: 
 
-<blockquote><code>
-
-pandoc -f docx -t markdown_mmd sebvc_Resume.docx -o sebvc_Resume.md 
-
-</code></blockquote>
-
 >```ps
 >pandoc -f docx -t markdown sebvc_Resume.docx -o sebvc_Resume.md 
 >```
 
 I also preview the `.md` file on VSCode, so for formatting sake I add the following CSS Styling file to the head of the `.md` file and any images or icons rendered in the pdf are stored in the same `./media/` directory:
 
-<blockquote>
-<code>&lt;head&gt;<br>
-
-  &lt;link rel="stylesheet" href="media/style_block_insert.css"&gt;<br>
-
- &lt;/head&gt;</code>
-</blockquote>
-
-<!-- ```html
-<head>
-  <link rel="stylesheet" href="media/style_block_insert.css">
-</head>
-``` -->
+>```html
+><head>
+>  <link rel="stylesheet" href="media/style_block_insert.css">
+></head>
+>```
 
 
  ---
