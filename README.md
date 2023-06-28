@@ -66,7 +66,7 @@ I also preview the `.md` file on VSCode, so for formatting sake I add the follow
 ## For You
 This Resume, and more specifically this Repo, is **Open-Source, _not_ Open-Contribution**, similar to [SQLite](https://www.sqlite.org/copyright.html) and [Litestream](https://github.com/benbjohnson/litestream/commit/a8d63b54aa5bd2d9639af01e1e0c2098a65b323a#diff-b335630551682c19a781afebcf4d07bf978fb1f8ac04c6bf87428ed5106870f5R121). 
 
-I want people to freely be able to access and modify my Repo and my Resume as a template to improve their own, but not directly affect/change my original Personal copy. That is the Reason for the [BSD 3-Clause License](./LICENSE.md), it is freely and easily permisive, but unless allowed by myself, my name must be removed from redistributions of the material.
+I want people to freely be able to access and modify my Repo and my Resume as a resource and template to improve their own, but not directly affect/change my original Personal copy. That is the Reason for the [BSD 3-Clause License](./LICENSE.md), it is freely and easily permisive, but unless allowed by myself, my name must be removed from redistributions of the material.
 
 I encourage you to Feel Free to leave suggestions, comments, and/or even endorsemnts in your own words, but any direct contributions (such as merges and Pull Requests) will most likely be ignored.
 
