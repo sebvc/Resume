@@ -1,26 +1,26 @@
 # My Resume Repo
-Sebastian Villa Cuellar's Professional Resume Material with implemented Github Tracking
+YOUR-NAME's Professional Resume Material with implemented Github Tracking
 
 >Feel free to Fork and utilize anything as a template for your resume, just reference the [**My Usage**](#my-usage) and [**For You**](#for-you) sections below.
 
 ![---](https://github.com/sebvc/Resume/assets/90735870/78313136-8b1d-4cb4-ad42-71e3ed6ff5c1)
-## Main Project Repository structure: [(Browse File Tree Here)](https://github.com/sebvc/Resume/)
+## Main Project Repository structure: [(Browse File Tree Here)](https://github.com/YOUR-GITHUB-USERNAME/Resume/)
 <pre><code>📁Resume/
-├──📝<a href="https://sebvc.github.io/Resume/sebvc_Resume.docx">sebvc_Resume.docx</a> # To Edit Resume
-├──📄<a href="https://sebvc.github.io/Resume/sebvc_Resume.pdf">sebvc_Resume.pdf</a> # Shareable PDF 
-└──🗃️<a href="https://github.com/sebvc/Resume/blob/main/sebvc_Resume.md">sebvc_Resume.md</a> # For Git Version Control Tracking
+├──📝<a href="https://YOUR-GITHUB-USERNAME.github.io/Resume/my_Resume.docx">my_Resume.docx</a> # To Edit Resume
+├──📄<a href="https://YOUR-GITHUB-USERNAME.github.io/Resume/my_Resume.pdf">my_Resume.pdf</a> # Shareable PDF 
+└──🗃️<a href="https://github.com/YOUR-GITHUB-USERNAME/Resume/blob/main/my_Resume.md">my_Resume.md</a> # For Git Version Control Tracking
 </code></pre>
 
 <!-- ```sh
 📁Resume/
-├──📝sebvc_Resume.docx # To Edit Resume
-├──📄sebvc_Resume.pdf # Shareable PDF 
-└──🗃️sebvc_Resume.md # For Git Version Control Tracking
+├──📝my_Resume.docx # To Edit Resume
+├──📄my_Resume.pdf # Shareable PDF 
+└──🗃️my_Resume.md # For Git Version Control Tracking
 ``` -->
 
-[***Click Here to view my Resume Pdf***](https://sebvc.github.io/Resume/sebvc_Resume.pdf) or Paste [https://sebvc.github.io/Resume/sebvc_Resume.pdf](https://sebvc.github.io/Resume/sebvc_Resume.pdf) to your Browser.
+[***Click Here to view my Resume Pdf***](https://YOUR-GITHUB-USERNAME.github.io/Resume/my_Resume.pdf) or Paste [https://YOUR-GITHUB-USERNAME.github.io/Resume/my_Resume.pdf](https://YOUR-GITHUB-USERNAME.github.io/Resume/my_Resume.pdf) to your Browser.
  
-Visit [https://github.com/sebvc/Resume](https://github.com/sebvc/Resume) to view Resume progression tracked on GitHub and explore the full Repo
+Visit [https://github.com/YOUR-GITHUB-USERNAME/Resume](https://github.com/YOUR-GITHUB-USERNAME/Resume) to view Resume progression tracked on GitHub and explore the full Repo
 
 ---
 ## My Usage
@@ -43,7 +43,7 @@ They both convert the file from from `.docx` to `.md` and insert a few stlying l
 I use following command-line to convert my MS Word `.docx` file to a MultiMarkdown `.md` file: 
 
 >```ps
->pandoc -f docx -t markdown_mmd sebvc_Resume.docx -o sebvc_Resume.md 
+>pandoc -f docx -t markdown_mmd my_Resume.docx -o my_Resume.md 
 >```
 
 I also preview the `.md` file on VSCode, so for formatting sake I add the following CSS Styling file to the head of the `.md` file and any images or icons rendered in the pdf are stored in the same `./media/` directory:
@@ -63,4 +63,4 @@ I want people to freely be able to access and modify my Repo and my Resume as a 
 
 I encourage you to Feel Free to leave suggestions, comments, and/or even endorsemnts in your own words, but any direct contributions (such as merges and Pull Requests) will most likely be ignored.
 
-If you wish to enquire more (with questions or opportunities) please contact me thorugh any of the ways found at the top of my [Resume](./sebvc_Resume.md) or [Website](https://tx.ag/sebvc) and I will get back to you soon.
+If you wish to enquire more (with questions or opportunities) please contact me thorugh any of the ways found at the top of my [Resume](./my_Resume.md) or [Website](YOUR-WEBSITE-LINK) and I will get back to you soon.

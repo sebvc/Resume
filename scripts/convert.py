@@ -18,8 +18,8 @@ def convert_docx_to_md(docx_file, md_file, custom_lines):
         file.write(content_with_custom_lines)
 
 # Specify the paths and custom lines
-docx_file_path = 'sebvc_Resume.docx'
-md_file_path = 'sebvc_Resume.md'
+docx_file_path = 'my_Resume.docx'
+md_file_path = 'my_Resume.md'
 custom_lines = [
     '<head>',
     '  <link rel="stylesheet" href="media/style_block_insert.css">',

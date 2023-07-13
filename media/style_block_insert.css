@@ -1,7 +1,9 @@
+/* My pandoc command Line */
 /* 
-pandoc -f docx -t markdown_mmd sebvc_Resume.docx -o sebvc_Resume.md 
+pandoc -f docx -t markdown_mmd my_Resume.docx -o my_Resume.md 
 */
-/* global class styles */
+/* global class CSS styles */
+
 /* Title */
 .header th{
   text-align: center;

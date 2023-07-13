@@ -2,8 +2,8 @@
 import Base.run
 
 # Define the file paths
-docx_file = "sebvc_Resume.docx"
-md_file = "sebvc_Resume.md"
+docx_file = "my_Resume.docx"
+md_file = "my_Resume.md"
 
 # Convert .docx to .md using Pandoc
 run(`pandoc -f docx -t markdown_mmd $docx_file -o $md_file`)
