@@ -1,4 +1,4 @@
-# My Resume Repo
+# Your Resume Repo
 YOUR-NAME's Professional Resume Material with implemented Github Tracking
 
 >Feel free to Fork and utilize anything as a template for your resume, just reference the [**My Usage**](#my-usage) and [**For You**](#for-you) sections below.
