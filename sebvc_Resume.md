@@ -70,8 +70,16 @@ Minnesota</td>
 </tr>
 <tr class="even">
 <td colspan="6"><blockquote>
-<p><em>Talent Development Associate,</em> Savage, MN, Jun 2023 –
+<p><em>Associate Application Engineer,</em> Los Angeles, CA, Jan 2024 –
 Present</p>
+</blockquote>
+<ul>
+<li><p>Supporting customers Pre- and Post-Sales with controls solutions
+and expertise</p></li>
+</ul>
+<blockquote>
+<p><em>Talent Development Associate,</em> Savage, MN, Jun 2023 – Dec
+2023</p>
 </blockquote>
 <ul>
 <li><p>1 of 6 engineers in pilot Sales Team Rotation Program across the
@@ -84,7 +92,7 @@ Jun 2022 – Aug 2022</p>
 <ul>
 <li><p>Shadowing Sales, Application, and Training Engineers implementing
 <strong>TwinCAT</strong> and Beckhoff Hardware with over
-<strong>20</strong> customer applications.</p></li>
+<strong>20</strong> customer applications</p></li>
 <li><p>Engaged with the Development of a Process Library with Beckhoff
 Germany</p></li>
 </ul></td>
