@@ -101,12 +101,12 @@ Germany</p></li>
 <td rowspan="2"><strong>RELEVANT EXPERIENCE</strong></td>
 <td colspan="2"><strong>TAMU RoboMasters,</strong> Texas A&amp;M
 University</td>
-<td colspan="4">Jan 2020 – Present</td>
+<td colspan="4">Jan 2020 – May 2023</td>
 <td rowspan="2"></td>
 </tr>
 <tr class="even">
 <td colspan="6"><blockquote>
-<p><em>Embedded Systems Team,</em> Aug 2021 – Present</p>
+<p><em>Embedded Systems Team,</em> Aug 2021 – May 2023</p>
 </blockquote>
 <ul>
 <li><p>Build and maintaining codebases for all robots with
@@ -131,8 +131,8 @@ competitions</p></li>
 </tr>
 <tr class="even">
 <td colspan="6"><blockquote>
-<p><em>Co-Vice President &amp; Founding Member,</em> Sep 2021 –
-Present</p>
+<p><em>Co-Vice President &amp; Founding Member,</em> Sep 2021 – May
+2023</p>
 </blockquote>
 <ul>
 <li><p>Established a professional society for Interdisciplinary
@@ -195,7 +195,7 @@ Teams</p></li>
 AND EXPERIENCE</strong></td>
 <td colspan="4"><strong>Dean’s Honor Award,</strong> Texas A&amp;M
 University College of Engineering</td>
-<td colspan="2">Fall 2020 – Present</td>
+<td colspan="2">Fall 2020 – May 2023</td>
 <td rowspan="2"></td>
 </tr>
 <tr class="even">
@@ -221,7 +221,7 @@ score, $1750 per semester</p></li>
 &amp; INTERESTS</strong></td>
 <td><strong>Qualities:</strong></td>
 <td colspan="5">Eager to Learn, Dedicated, Seeks Additional
-Responsibilities, Team Player.</td>
+Responsibilities, Team Player</td>
 <td rowspan="2"></td>
 </tr>
 <tr class="even">
@@ -229,7 +229,7 @@ Responsibilities, Team Player.</td>
 <td colspan="5">TwinCAT, SolidWorks, C/C++, Python, ROS, Julia, MATLAB,
 Simulink, HTML, Github, StucturedText, Microsoft Dynamics, LaTeX,
 Microsoft Office, Adobe Fireworks, KiCAD, AutoCAD, LabVIEW, Multisim,
-Keil, Verilog HDL, Carla.</td>
+Keil, Verilog HDL, Carla</td>
 </tr>
 <tr class="odd">
 <td><strong>Bilingual:</strong></td>
@@ -239,7 +239,7 @@ Keil, Verilog HDL, Carla.</td>
 <tr class="even">
 <td><strong>Interests:</strong></td>
 <td colspan="5">Robotics, Swing Dancing, Rock Climbing, Cello, The
-Cosmere, UI/UX Design.</td>
+Cosmere, UI/UX Design</td>
 <td></td>
 </tr>
 <tr class="odd">
