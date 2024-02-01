@@ -7,8 +7,8 @@
 <col style="width: 10%" />
 <col style="width: 41%" />
 <col style="width: 6%" />
-<col style="width: 3%" />
-<col style="width: 7%" />
+<col style="width: 1%" />
+<col style="width: 9%" />
 <col style="width: 10%" />
 <col style="width: 5%" />
 </colgroup>
@@ -19,16 +19,16 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td colspan="8"><img src="media/image1.png"
+<td colspan="8"><img src="media/image2.svg"
 style="width:0.25in;height:0.25in"
 alt="Suburban scene with solid fill" /> <sup>DFW/College Station,
 TX</sup> <a href="mailto:sebvc@tamu.edu?subject=From%20Resume:%20"><img
-src="media/image3.png" style="width:0.25in;height:0.25in"
+src="media/image4.svg" style="width:0.25in;height:0.25in"
 alt="Email with solid fill" /> <sup>sebvc@tamu.edu</sup></a> <img
-src="media/image5.png" style="width:0.26in;height:0.26in"
+src="media/image6.svg" style="width:0.26in;height:0.26in"
 alt="Ui Ux with solid fill" /> <sup><a
 href="https://tx.ag/sebvc">tx.ag/sebvc</a></sup> <img
-src="media/image7.png" style="width:0.25in;height:0.25in"
+src="media/image8.svg" style="width:0.25in;height:0.25in"
 alt="Speaker phone with solid fill" /><a href="tel:214+585+9986"><sup>+1
 (214) 585-9986</sup></a></td>
 </tr>
