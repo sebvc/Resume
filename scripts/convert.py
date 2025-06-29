@@ -4,6 +4,7 @@ def convert_docx_to_md(docx_file, md_file, custom_lines):
     # Convert the .docx file to .md using Pandoc
 	# include word styles in md
 	# github flavored markdown
+	# ../Resume/> pandoc -f docx+styles -t gfm sebvc_Resume.docx -o sebvc_Resume.md
     pandoc_command = ['pandoc', '-f', 'docx+styles', '-t', 'gfm', docx_file, '-o', md_file]
     subprocess.run(pandoc_command)
 
@@ -23,9 +24,11 @@ def convert_docx_to_md(docx_file, md_file, custom_lines):
 docx_file_path = 'sebvc_Resume.docx'
 md_file_path = 'sebvc_Resume.md'
 custom_lines = [
+	'<!-- Python file.write() to include .CSS reference -->',
     '<head>',
     '  <link rel="stylesheet" href="media/style_block_insert.css">',
-    '</head>'
+    '</head>',
+	'<!--------------------------------------------------->'
     ]
 
 # Call the conversion function

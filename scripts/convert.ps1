@@ -1,0 +1,1 @@
+pandoc -f docx+styles -t gfm sebvc_Resume.docx -o sebvc_Resume.md -H ".\media\style_css_header.md"
