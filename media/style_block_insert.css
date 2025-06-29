@@ -10,9 +10,21 @@ pandoc -f docx+styles -t gfm sebvc_Resume.docx -o sebvc_Resume.md
 }
 /* icons row */
 /* tr:nth-of-type(1), */
-*[data-custom-style^="Resume Socials"]{
+*[data-custom-style^="Resume Socials"] *{
   text-align: center;
-  /* font-size: medium; */
+  font-style:normal;
+  vertical-align:super; 
+  line-height: 1.0; /*for Superscripts*/
+  font-size: small;
+  text-decoration:none;
+  color: currentColor;
+}
+*[data-custom-style^="Resume Socials"] img{
+	text-align: center;
+	vertical-align:sub; 
+	line-height: 1.0; /*for Subscripts*/
+	font-size: small;
+	text-decoration:none;
 }
 /* Column of Categories */
 /* tr:nth-of-type(2) > td:first-of-type,
@@ -20,7 +32,6 @@ pandoc -f docx+styles -t gfm sebvc_Resume.docx -o sebvc_Resume.md
 .odd td[rowspan], */
 *[data-custom-style^="Resume_Cat"]
 {
-/* color: red; */
 text-align: right;
 vertical-align: top;
 }
@@ -31,4 +42,27 @@ vertical-align: top;
 /* color: red; */
 text-align: left;
 vertical-align: top;
+font-weight: normal;
+}
+
+/* Experience Blocks */
+*[data-custom-style^="Experience SubHeader"]
+{
+/* color: red; */
+font-style: italic;
+font-weight: bold;
+}
+
+*[data-custom-style^="Experience Header"]
+{
+/* color: red; */
+font-style: normal;
+font-weight: bold;
+}
+
+*[data-custom-style^="Experience semibold"]
+{
+/* color: red; */
+font-style: normal;
+font-weight: 500;
 }

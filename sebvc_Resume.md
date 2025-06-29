@@ -25,17 +25,19 @@
 <tbody>
 <tr>
 <td colspan="8"><div data-custom-style="Resume Socials">
-<p><img src="media/image2.svg" style="width:0.25in;height:0.25in"
-alt="Suburban scene with solid fill" />Los Angeles, CA <a
+<p><a href="https://maps.app.goo.gl/cjinqftYMDoxRKKKA"><img
+src="media/image2.svg" style="width:0.25in;height:0.25in"
+alt="House Icon" /><span data-custom-style="Hyperlink">Los Angeles,
+CA</span></a> <a
 href="mailto:sebastian.villacuellar@gmail.com?subject=From%20Resume:%20"><img
 src="media/image4.svg" style="width:0.25in;height:0.25in"
-alt="Email with solid fill" /> <span
+alt="Email Icon" /> <span
 data-custom-style="Hyperlink">sebastian.villacuellar@gmail.com</span></a>
-<img src="media/image6.svg" style="width:0.26in;height:0.26in"
-alt="Ui Ux with solid fill" /> <a href="https://tx.ag/sebvc"><span
-data-custom-style="Hyperlink">tx.ag/sebvc</span></a> <img
-src="media/image8.svg" style="width:0.25in;height:0.25in"
-alt="Speaker phone with solid fill" /><a href="tel:214+585+9986"><span
+<a href="https://tx.ag/sebvc"><img src="media/image6.svg"
+style="width:0.26in;height:0.26in" alt="Website Icon" /> <span
+data-custom-style="Hyperlink">tx.ag/sebvc</span></a> <a
+href="tel:214+585+9986"><img src="media/image8.svg"
+style="width:0.25in;height:0.25in" alt="Phone Icon" /><span
 data-custom-style="Hyperlink">+1 (214) 585-9986</span></a></p>
 </div></td>
 </tr>
