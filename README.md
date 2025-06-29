@@ -40,7 +40,7 @@ The Convert Scripts can be executed with Julia or Python in on the command line 
 
 The scripts I provided are run with either:
 
-- ` julia .\scripts\convert.jl` (need [Julia](https://julialang.org/))
+- `julia .\scripts\convert.jl` (need [Julia](https://julialang.org/))
 - `py .\scripts\convert.py` (need [Python](https://www.python.org/))
 - `.\scripts\convert.ps1` (in PowerShell)
 
