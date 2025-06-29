@@ -6,7 +6,9 @@ docx_file = "sebvc_Resume.docx"
 md_file = "sebvc_Resume.md"
 
 # Convert .docx to .md using Pandoc
-run(`pandoc -f docx -t markdown_mmd $docx_file -o $md_file`)
+# include word styles in md with +styles
+# github flavored markdown with gfm
+run(`pandoc -f docx+styles -t gfm $docx_file -o $md_file`)
 
 # Read the contents of the .md file
 md_content = read(md_file, String)

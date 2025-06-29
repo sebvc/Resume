@@ -1,23 +1,34 @@
 /* 
-pandoc -f docx -t markdown_mmd sebvc_Resume.docx -o sebvc_Resume.md 
+pandoc -f docx+styles -t gfm sebvc_Resume.docx -o sebvc_Resume.md
 */
 /* global class styles */
 /* Title */
-.header th{
+/* thead tr th, */
+*[data-custom-style^="Resume Title"]{
   text-align: center;
   font-size: xx-large;
 }
 /* icons row */
-tr:nth-of-type(1){
+/* tr:nth-of-type(1), */
+*[data-custom-style^="Resume Socials"]{
   text-align: center;
   /* font-size: medium; */
 }
 /* Column of Categories */
-tr:nth-of-type(2) > td:first-of-type,
+/* tr:nth-of-type(2) > td:first-of-type,
 .even td[rowspan],
-.odd td[rowspan]
+.odd td[rowspan], */
+*[data-custom-style^="Resume_Cat"]
 {
 /* color: red; */
 text-align: right;
+vertical-align: top;
+}
+
+/* Experience Blocks */
+*[data-custom-style^="Experience"]
+{
+/* color: red; */
+text-align: left;
 vertical-align: top;
 }

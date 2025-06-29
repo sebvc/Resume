@@ -2,7 +2,9 @@ import subprocess
 
 def convert_docx_to_md(docx_file, md_file, custom_lines):
     # Convert the .docx file to .md using Pandoc
-    pandoc_command = ['pandoc', '-f', 'docx', '-t', 'markdown_mmd', docx_file, '-o', md_file]
+	# include word styles in md
+	# github flavored markdown
+    pandoc_command = ['pandoc', '-f', 'docx+styles', '-t', 'gfm', docx_file, '-o', md_file]
     subprocess.run(pandoc_command)
 
     # Read the content of the generated .md file
